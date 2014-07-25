@@ -2,9 +2,6 @@ import junit.framework.TestCase;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
- * Created by andrey.kravets on 7/24/2014.
- */
 public class FibCalcTest extends TestCase {
 
     private FibCalc fibonacciCalc;
